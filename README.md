@@ -1,5 +1,5 @@
 
-** 💼 Your Key to Profitable Solana Trades—Powered by Advanced algorithms **
+**💼 Your Key to Profitable Solana Trades—Powered by Advanced algorithms**
 In a market where every second counts, you need a tool that works as hard as you do. Our Solana sniper bot uses advanced algorithms to monitor the market and make split-second decisions, ensuring you never miss out on a profitable trade. Whether you're aiming for short-term gains or building a long-term portfolio, our bot is your trusted partner. Experience the power of automated trading and take your Solana investments to the next level. Start profiting like a pro today!
 
 
