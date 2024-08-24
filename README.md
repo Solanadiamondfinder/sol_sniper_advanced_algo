@@ -1,4 +1,8 @@
 
+** 💼 Your Key to Profitable Solana Trades—Powered by Advanced algorithms **
+In a market where every second counts, you need a tool that works as hard as you do. Our Solana sniper bot uses advanced algorithms to monitor the market and make split-second decisions, ensuring you never miss out on a profitable trade. Whether you're aiming for short-term gains or building a long-term portfolio, our bot is your trusted partner. Experience the power of automated trading and take your Solana investments to the next level. Start profiting like a pro today!
+
+
 **Solana SPL Token Sniper Bot** that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL.
 Depending on the speed of the RPC node, the purchase usually happens before the token is available on Raydium UI for swapping.
 
@@ -15,9 +19,8 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 
 ## SETUP
 To run the script you need to:
-1. Create a new empty Solana wallet
-2. Transfer some SOL to it
-3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration set below)
+1. Use your Solana private key
+2. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration set below)
 
 `Jupiter Wrap` : https://jup.ag/
 
